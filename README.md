@@ -1,4 +1,7 @@
-### Hi there 👋
+### Привет! 👋
+
+🌱 Совсем не программист.
+Обучаюсь программированию на С++ для микроконтроллеров платформы Arduino, ESP.
 
 <!--
 **YaKotovskiy/YaKotovskiy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
